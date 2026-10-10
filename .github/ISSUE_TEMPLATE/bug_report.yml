@@ -1,0 +1,46 @@
+name: Bug report
+description: Nunc Sonat did something wrong, or failed to connect.
+title: "[Bug] "
+body:
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      description: Apple menu → About This Mac.
+      placeholder: macOS 15.6
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: App version
+      description: Nunc Sonat menu → About Nunc Sonat.
+      placeholder: "1.0"
+    validations:
+      required: true
+  - type: textarea
+    id: devices
+    attributes:
+      label: Device types
+      description: Apple TV, HomePod, speakers, or other Macs involved, and whether the Apple TV has a display attached.
+      placeholder: Apple TV 4K, headless, AirPlaying to a Sonos speaker
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps
+      description: What you did, and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: |
+        While the problem is happening, run this and paste the relevant lines. Titles are included, so keep the excerpt short.
+      value: |
+        log stream --predicate 'subsystem == "app.nuncsonat"'
+      render: shell
+    validations:
+      required: false

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: License and billing
+    url: mailto:developer@diligiteiustitiam.world
+    about: License keys, purchases, invoices, and cancellations go to email, not a public issue.
