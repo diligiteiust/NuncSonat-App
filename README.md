@@ -4,6 +4,8 @@
 
 Nunc Sonat is a menu-bar remote for music that is already playing on an Apple TV, a HomePod, or this Mac. Artwork, title, and transport stay in the menu bar. A mini player can sit on the desktop.
 
+<img alt="The menu and the mini player, both showing the current song, its artwork, and the playback controls" src="docs/screenshots/nuncsonat_miniplayer_with_menu.png" width="720">
+
 [Download](https://github.com/diligiteiust/NuncSonat-App/releases/latest/download/NuncSonat.dmg) · [Buy Premium](https://diligiteiustitiam.world/nuncsonat/subscribe/)
 
 ## What it does
@@ -14,6 +16,9 @@ Nunc Sonat is a menu-bar remote for music that is already playing on an Apple TV
 - AirPlay outputs and a volume slider for each speaker.
 - Jump to another song in the playlist.
 - Lyrics, including timed `.lrc` files.
+
+  <img alt="Lyrics for the current song, open beside the menu" src="docs/screenshots/nuncsonat_lyrics.png" width="560">
+
 - Control Music on another Mac that is also running Nunc Sonat.
 
 ## Free and Premium
