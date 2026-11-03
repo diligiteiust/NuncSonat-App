@@ -28,15 +28,16 @@ Since 2.20 there is also a Nunc Sonat app for Apple TV. It pairs with the Mac ap
 
 ## The Apple TV app
 
-The Nunc Sonat app for Apple TV is coming soon to the App Store. It can't be installed yet. It's free and doesn't depend on Premium.
+The Nunc Sonat app for Apple TV is coming soon to the App Store. It can't be installed yet. It's free. The app itself doesn't need Premium, but a few things you do with it from the Mac are Premium, and they're marked below.
 
 - The TV shows what's playing: big artwork, the title, progress, and play, pause, previous, and next.
 - Tabs on the right show Playlist, Lyrics, Info, and Settings. You can scroll lyrics and Info with the Siri Remote, and the current lyric line stays in view.
 - While it's connected, the Mac sends the TV the lyrics it already has for the song.
 - Top Shelf shows the song that is playing, or the last one played.
 - The TV stays awake while Nunc Sonat or Now Playing is on screen, so the screen saver doesn't take over.
-- From the Mac you can send a Music playlist, or an artist's least-played songs, to the Apple TV. Play wakes the TV, opens the app, and starts the music. It plays through the Apple TV's own Music player, so it keeps playing if you leave the app.
-- Several Macs can share one Apple TV. The Mac that sent the most recent playlist runs the queue, and the other Macs follow the song the TV is playing.
+- From the Mac you can send a Music playlist, or an artist's least-played songs, to the Apple TV (Premium). Play wakes the TV, opens the app, and starts the music. It plays through the Apple TV's own Music player, so it keeps playing if you leave the app.
+- You can play on this Mac through the Apple TV's speakers (Premium). The option is in Settings → General → Play on this Mac.
+- Several Macs can share one Apple TV (Premium). The Mac that sent the most recent playlist runs the queue, and the other Macs follow the song the TV is playing.
 
 To pair it, see [Pair the Apple TV app](#pair-the-apple-tv-app).
 
@@ -53,14 +54,16 @@ Premium adds:
 - The Lists tab and Playlist Rules
 - Always on top, and panel opacity
 - Control of Music on another Mac
+- Sending a playlist, or an artist's least-played songs, to the Apple TV
+- Play on this Mac through the Apple TV's speakers
+- Sharing one Apple TV between several Macs
 
 A license key works on up to 3 Macs. Paste it in Settings → Premium. [Buy Premium](https://diligiteiustitiam.world/nuncsonat/subscribe/).
 
 ## Requirements
 
 - macOS 14 or later, on Apple silicon or Intel.
-- An Apple TV running tvOS 15 or later, or a HomePod, on the same network as the Mac.
-- The Apple TV app needs tvOS 16 or later.
+- An Apple TV running tvOS 16 or later, or a HomePod, on the same network as the Mac. This covers both the remote pairing and the Apple TV app.
 - Music on this Mac needs Automation access the first time you control it.
 
 ## Install

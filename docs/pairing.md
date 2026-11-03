@@ -35,7 +35,7 @@ Pairing errors clear once pairing succeeds. If the Apple TV no longer lists this
 
 ### More than one Mac
 
-The Apple TV app remembers every Mac it has paired with, and several Macs can share one Apple TV. Pair each Mac with the same steps. Settings on the TV lists each Mac once and marks the one that is connected. Each Mac has its own **Forget** button there.
+The Apple TV app remembers every Mac it has paired with, and several Macs can share one Apple TV. Sharing one Apple TV between several Macs is Premium. Pair each Mac with the same steps. Settings on the TV lists each Mac once and marks the one that is connected. Each Mac has its own **Forget** button there.
 
 ## HomePod
 
