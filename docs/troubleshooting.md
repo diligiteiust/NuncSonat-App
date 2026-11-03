@@ -8,6 +8,20 @@ Allow Nunc Sonat in System Settings → Privacy & Security → Local Network. Th
 
 Connect a display once. Enter both PINs (the remote PIN, then the AirPlay PIN). Disconnect the display afterwards. See [Pairing](pairing.md).
 
+## The Apple TV app won't pair
+
+The Nunc Sonat app for Apple TV pairs with a 6-digit code, not the remote PINs above. It's coming soon to the App Store and needs tvOS 16 or later.
+
+1. On the Mac, open Settings → General → Apple TV app and choose **Pair**.
+2. Nunc Sonat wakes the Apple TV, opens the app, and shows a 6-digit code on the TV.
+3. Type that code on the Mac.
+
+The Mac finds the Apple TV app over the local network, so the Local Network permission above applies here too.
+
+Pairing errors clear once pairing succeeds. If the Apple TV no longer lists this Mac, Settings on the Mac says so and offers **Pair**. Pair again with a new code.
+
+When the Apple TV restarts, the Mac keeps trying to reconnect. A countdown shows the next try, and the Mac connects as soon as the TV is back. See [Pairing](pairing.md#the-apple-tv-app).
+
 ## Now playing stays empty
 
 Play, pause, and skip can work while artwork and the title are still catching up. The menu says **Now-playing unavailable** or **Connected, waiting for now playing…** when that happens. Leave the session up. Nunc Sonat keeps asking the Apple TV for the current song.
