@@ -12,7 +12,7 @@ Since 2.20 there is also a Nunc Sonat app for Apple TV. It pairs with the Mac ap
 
 [Download](https://github.com/diligiteiust/NuncSonat-App/releases/latest/download/NuncSonat.dmg) · [Buy Premium](https://diligiteiustitiam.world/nuncsonat/subscribe/)
 
-<a href="https://setapp.com/apps/nunc-sonat"><picture><source srcset="docs/images/setapp-badge-dark.svg" media="(prefers-color-scheme: dark)"><img alt="Available on Setapp" src="docs/images/setapp-badge-light.svg" width="122" height="40"></picture></a>
+<a href="https://go.setapp.com/stp1697?refAppID=2174&amp;utm_medium=vendor_program&amp;utm_source=Diligite+Iustitiam+LLC&amp;utm_content=link"><picture><source srcset="docs/images/setapp-badge-dark.svg" media="(prefers-color-scheme: dark)"><img alt="Available on Setapp" src="docs/images/setapp-badge-light.svg" width="122" height="40"></picture></a>
 
 Also on Setapp. Setapp members get everything unlocked.
 
