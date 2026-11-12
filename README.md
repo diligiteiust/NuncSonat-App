@@ -4,6 +4,8 @@
 
 You work on your Mac, but your music plays on your Apple TV, HomePod or other AirPlay speakers. You don't want to reach for your phone just to switch a playlist, change the volume or see what's playing. You'd rather do it right on your Mac, where your eyes and hands already are. That's what Nunc Sonat is for.
 
+It sits in your menu bar and shows the song that's playing. From there you can pause, skip, change the volume of each speaker, load a different playlist onto your Apple TV, or build playlists from rules like your least played songs.
+
 Since 2.20 there is also a Nunc Sonat app for Apple TV. It pairs with the Mac app and shows what's playing on the TV. The Apple TV app is coming soon to the App Store and can't be installed yet.
 
 <img alt="The menu and the mini player, both showing the current song, its artwork, and the playback controls" src="docs/screenshots/nuncsonat_miniplayer_with_menu.png" width="720">
