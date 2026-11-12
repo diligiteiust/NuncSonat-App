@@ -2,7 +2,7 @@
 
 <img alt="Nunc Sonat" src="docs/images/app-icon.png" width="128" />
 
-Nunc Sonat is a menu-bar remote for music that is already playing on an Apple TV, a HomePod, or this Mac. Artwork, title, and transport stay in the menu bar. A mini player can sit on the desktop.
+You work on your Mac, but your music plays on your Apple TV, HomePod or other AirPlay speakers. You don't want to reach for your phone just to switch a playlist, change the volume or see what's playing. You'd rather do it right on your Mac, where your eyes and hands already are. That's what Nunc Sonat is for.
 
 Since 2.20 there is also a Nunc Sonat app for Apple TV. It pairs with the Mac app and shows what's playing on the TV. The Apple TV app is coming soon to the App Store and can't be installed yet.
 
