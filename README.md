@@ -6,11 +6,13 @@ You work on your Mac, but your music plays on your Apple TV, HomePod or other Ai
 
 It sits in your menu bar and shows the song that's playing. From there you can pause, skip, change the volume of each speaker, load a different playlist onto your Apple TV, or build playlists from rules like your least played songs.
 
-Since 2.20 there is also a Nunc Sonat app for Apple TV. It pairs with the Mac app and shows what's playing on the TV. The Apple TV app is coming soon to the App Store and can't be installed yet.
+Since 2.20 there is also a Nunc Sonat app for Apple TV. It pairs with the Mac app and shows what's playing on the TV. The Apple TV app is free on the App Store.
 
 <img alt="The menu and the mini player, both showing the current song, its artwork, and the playback controls" src="docs/screenshots/nuncsonat_miniplayer_with_menu.png" width="720">
 
 [Download](https://github.com/diligiteiust/NuncSonat-App/releases/latest/download/NuncSonat.dmg) · [Buy Premium](https://diligiteiustitiam.world/nuncsonat/subscribe/)
+
+<a href="https://apps.apple.com/us/app/nunc-sonat/id6830067217"><img alt="Download on Apple TV" src="docs/images/app-store-badge-apple-tv.svg" width="113.30938" height="40"></a>
 
 <a href="https://go.setapp.com/stp1697?refAppID=2174&amp;utm_medium=vendor_program&amp;utm_source=Diligite+Iustitiam+LLC&amp;utm_content=link"><picture><source srcset="docs/images/setapp-badge-dark.svg" media="(prefers-color-scheme: dark)"><img alt="Available on Setapp" src="docs/images/setapp-badge-light.svg" width="122" height="40"></picture></a>
 
@@ -34,7 +36,7 @@ Also on Setapp. Setapp members get everything unlocked.
 
 ## The Apple TV app
 
-The Nunc Sonat app for Apple TV is coming soon to the App Store. It can't be installed yet. It's free. The app itself doesn't need Premium, but a few things you do with it from the Mac are Premium, and they're marked below.
+The Nunc Sonat app for Apple TV is free on the App Store. The app itself doesn't need Premium, but a few things you do with it from the Mac are Premium, and they're marked below.
 
 - The TV shows what's playing: big artwork, the title, progress, and play, pause, previous, and next.
 - Tabs on the right show Playlist, Lyrics, Info, and Settings. You can scroll lyrics and Info with the Siri Remote, and the current lyric line stays in view.
@@ -100,7 +102,7 @@ A HomePod asks for one PIN, shown on a nearby signed-in device. There is no seco
 
 #### Pair the Apple TV app
 
-This needs the Nunc Sonat app on the Apple TV, which is coming soon to the App Store.
+This needs the Nunc Sonat app on the Apple TV, which is free on the App Store.
 
 1. On the Mac, open Settings → General → Apple TV app and choose **Pair**.
 2. Nunc Sonat wakes the Apple TV, opens the app, and shows a 6-digit code on the TV.

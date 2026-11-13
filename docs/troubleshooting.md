@@ -10,7 +10,7 @@ Connect a display once. Enter both PINs (the remote PIN, then the AirPlay PIN). 
 
 ## The Apple TV app won't pair
 
-The Nunc Sonat app for Apple TV pairs with a 6-digit code, not the remote PINs above. It's coming soon to the App Store and needs tvOS 16 or later.
+The Nunc Sonat app for Apple TV pairs with a 6-digit code, not the remote PINs above. It's free on the App Store and needs tvOS 16 or later.
 
 1. On the Mac, open Settings → General → Apple TV app and choose **Pair**.
 2. Nunc Sonat wakes the Apple TV, opens the app, and shows a 6-digit code on the TV.
