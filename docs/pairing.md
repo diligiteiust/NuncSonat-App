@@ -23,7 +23,7 @@ A headless Apple TV has no display, so it cannot show either PIN. Connect a disp
 
 ## The Apple TV app
 
-The Nunc Sonat app for Apple TV is coming soon to the App Store. It can't be installed yet. It needs tvOS 16 or later, and it's free.
+The Nunc Sonat app for Apple TV is free on the App Store. It needs tvOS 16 or later.
 
 1. On the Mac, open Settings → General → Apple TV app.
 2. Choose **Pair**. Nunc Sonat wakes the Apple TV, opens the app, and shows a 6-digit code on the TV.
